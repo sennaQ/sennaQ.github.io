@@ -1,0 +1,54 @@
+<header id="header">
+    <div id="topNavMobile"></div>
+    <div data-content-field="site-title" id="logo">
+        <h1 class="logo image" data-shrink-original-size="26" style="letter-spacing: 0em; margin: 0em">
+            <a href="{{ site.baseurl }}/">
+                <img alt="Mossery Page" src="{{ site.baseurl }}/images/avatar.jpg"/>
+            </a>
+        </h1>
+        <div class="logo-subtitle">
+            {{ site.description }}
+        </div>
+    </div>
+
+    <div data-content-field="navigation" id="topNav">
+        <nav class="main-nav dropdown-click desktop-nav" id="mainNavigation">
+            <ul>
+                <li class="folder-collection folder">
+                    <a href="{{ site.baseurl }}/"> a visual portfolio</a>
+                </li>
+                <li class="page-collection">
+                    <a href="{{ site.baseurl }}/"> a camera & lens</a>
+                </li>
+                <li class="blog-collection">
+                    <a href="{{ site.baseurl }}/"> a musical pattern</a>
+                </li>
+            </ul>
+        </nav>
+        <nav class="main-nav dropdown-click desktop-nav" id="secondaryNavigation">
+            <ul>
+                <!--active-link-->
+                <li class="page-collection">
+                    <a href="{{ site.baseurl }}/"> so·ft·w·are</a>
+                </li>
+                <li class="page-collection">
+                    <a href="{{ site.baseurl }}/"> pho·to·graph·y</a>
+                </li>
+                <li class="blog-collection">
+                    <a href="{{ site.baseurl }}/"> ran·do·m</a>
+                </li>
+                <li class="blog-collection">
+                    <a href="{{ site.baseurl }}/"> arc·hive</a>
+                </li>
+            </ul>
+        </nav>
+
+    </div>
+    <div id="headerBlocks"></div>
+    <div class="container social-links sqs-svg-icon--list" data-content-field="connected-accounts" id="footerBlocks-2">
+        <footer class="footer">
+            {% include svg-icons.html %}
+        </footer>
+    </div>
+    <div></div>
+</header>

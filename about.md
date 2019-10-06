@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Moss a garden-variety life form.
+
+Not available for purchase.
+
+Tokyo.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I just started this blog, honestly it's not easy for me to say something in public yet.
+
+I hope this blog can be a fresh start.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[moss.senna@protonmail.com](mailto:moss.senna@protonmail.com)

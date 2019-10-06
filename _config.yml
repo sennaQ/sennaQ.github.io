@@ -6,22 +6,18 @@
 name: Mossery Page
 
 # Short bio or description (displayed in the header)
-description: A Blog.
+description: to cure sometimes; to relieve often; to comfort always.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: images/avatar.jpg
 
-#
-# Flags below are optional
-#
-
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: moss.senna@protonmail.com
   facebook:
   flickr:
-  github:
+  github: sennaQ
   instagram:
   linkedin:
   pinterest:
