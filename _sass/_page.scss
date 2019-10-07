@@ -3,10 +3,34 @@
 /* page css */
 /***************/
 
-body.sidebar-position-left #pageWrapper,body.sidebar-position-left #footerWrapper{
+#header,#page,#footer{
+   padding:0
+}
+#page{
+   position:absolute;
+   width:740px;
+   clear:both;
+}
+#main-content{
+   position:absolute;
+   height: 1706px;
+   width:740px;
+//    clear:both;
+}
+
+#thumb-image{
    width:auto;
+   clear:both;
+   display:block;
+   vertical-align: baseline;
+}
+
+body.sidebar-position-left #pageWrapper,body.sidebar-position-left #footerWrapper{
+   position:absolute;
    top:50px;
+   width:740px;
    margin-left:275px;
+
 }
 
 body.sidebar-position-right #pageWrapper,body.sidebar-position-right #footerWrapper{
