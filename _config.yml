@@ -45,6 +45,16 @@ url: www.mossery.page
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+collections:
+  visual_portfolio:
+    output: true
+  music_pattern:
+    output: true
+  camera_lens:
+    output: true
+
+collections_dir: collections
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
